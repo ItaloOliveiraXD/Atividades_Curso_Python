@@ -1,0 +1,4 @@
+'''
+Operadores Aritiméticos
++, -, *, /, //, **, %, ()
+'''

@@ -1,0 +1,18 @@
+from pessoa import Pessoa
+
+p1 = Pessoa('Italo', 24)
+p1.comer('pastel')
+p1.comer('Hamburguer')
+p1.parar_comer()
+p1.parar_comer()
+p1.comer('Hamburguer')
+p1.falar('Programação orientada objeto')
+p1.parar_comer()
+p1.falar('Programação orientada objeto')
+p1.comer('maçã')
+p1.parar_comer()
+p1.parar_falar()
+p1.comer('maçã')
+p2 = Pessoa.ano_nascimento('Lidia', 1997)
+print(p2.nome, p2.idade)
+print(Pessoa.is_maior(p2.idade))

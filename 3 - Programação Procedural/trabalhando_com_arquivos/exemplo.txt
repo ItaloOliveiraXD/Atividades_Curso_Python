@@ -1,0 +1,3 @@
+Escrevendo na primeira linha do aquivo criado
+Escrevendo na segunda linha do aquivo criado
+Escrevendo na terceira linha do aquivo criado
